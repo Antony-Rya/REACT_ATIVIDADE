@@ -1,7 +1,7 @@
 function Header(){
 
     return(
-        <div>
+        <div class="fixed-top">
             <div class="row text-bg-success p-3">
             <div class="col-8">
                 <p class="m-0 p-0">Instituto federal da paraiba</p>

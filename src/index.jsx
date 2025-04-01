@@ -6,13 +6,12 @@ import reportWebVitals from './reportWebVitals';
 import Header from '../src/Components/Header/Header'
 import Footer from '../src/Components/Footer/Footer'
 import Content from '../src/Components/Content/Content'
+import Pagina from '../src/Components/Pagina/Pagina'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Header />
-    <Content />
-    <Footer />
+    <Pagina />
   </React.StrictMode>
 );
 

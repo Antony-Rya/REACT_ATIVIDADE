@@ -1,32 +1,32 @@
 function Footer(){
     return(
-        <div class="row text-bg-success p-5 d-flex justify-content-center">
+        <div class="row text-bg-success p-5 d-flex justify-content-center fixed-bottom">
             <div class="col">
                 Assuntos
                 <ul>
-                    <li>Área da imprensa</li>
-                    <li>Relações internacionais</li>
-                    <li>Concurso público</li>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Área da imprensa</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Relações internacionais</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Concurso público</li></a>
                 </ul>
             </div>
             <div class="col">Serviços
                 <ul>
-                    <li>Portal do estudante</li>
-                    <li>Portal do periódico</li>
-                    <li>Portal do servidor</li>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Portal do estudante</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Portal do periódico</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Portal do servidor</li></a>
                 </ul>
             </div>
             <div class="col">Redes sociais
                 <ul>
-                    <li>Twitter</li>
-                    <li>Youtube</li>
-                    <li>Facebook</li>
-                    <li>Instagram</li>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Twitter</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Youtube</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Facebook</li></a>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>Instagram</li></a>
                 </ul>
             </div>
             <div class="col">RSS
                 <ul>
-                    <li>O que é?</li>
+                    <a href="" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover"><li>O que é?</li></a>
                 </ul>
             </div>
             <div class="row text-bg-success-emphasis">
