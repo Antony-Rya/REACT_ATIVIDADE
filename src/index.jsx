@@ -7,11 +7,19 @@ import Header from '../src/Components/Header/Header'
 import Footer from '../src/Components/Footer/Footer'
 import Content from '../src/Components/Content/Content'
 import Pagina from '../src/Components/Pagina/Pagina'
+import Contador from './Components/Contador/Contador';
+import Formulario from './Components/Formulario/Formulario'
+import MostrarOcultar from './Components/MostrarOcultar/MostrarOcultar';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Pagina />
+    {/* <Pagina /> */}
+    {/* <Formulario /> */}
+    <Contador />
+    {/* <MostrarOcultar /> */}
+
   </React.StrictMode>
 );
 
